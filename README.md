@@ -1,6 +1,8 @@
 ## Introduce
 
-- 해당 organization은 AiRISS 와 KAERI에서 AI 모델 공동 개발을 위한 공간입니다.
+```
+해당 organization은 AiRISS 와 KAERI에서 AI 모델 공동 개발을 위한 공간입니다.
+```
 
 ## Diary
 
