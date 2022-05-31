@@ -1,12 +1,10 @@
-## Hi there 👋
+## Introduce
 
-<!--
+```
+해당 organization은 AiRISS 와 KAERI에서 AI 모델 공동 개발을 위한 공간입니다.
+```
 
-**Here are some ideas to get you started:**
+## Diary
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+2022-05-31
+- [x] 기존 개발 된 모델 공유 및 데이터 전달  
